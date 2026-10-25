@@ -1,0 +1,9 @@
+{
+  "name": "smart-air-box-card",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build.js",
+    "test": "node test/card.test.js"
+  }
+}
